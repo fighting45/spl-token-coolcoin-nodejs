@@ -59,7 +59,9 @@ The createMetadata instruction from the original Metaplex standard is now deprec
 All private keys are managed securely using .env file and dotenv.
 
 🧑‍💻 Author
+
 Made with 💙 by Usama
 
 📜 License
+
 MIT
