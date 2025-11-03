@@ -7,7 +7,7 @@ This project demonstrates how to create and manage a Solana Program Library (SPL
 - **Name:** Cool Coin
 - **Symbol:** CC
 - **Initial Supply:** 100 tokens
-- **Network:** Solana Devnet
+- **Network:** Solana Devnet!
 
 ## 🛠️ Features Implemented
 
