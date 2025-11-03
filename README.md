@@ -22,8 +22,7 @@ This project demonstrates how to create and manage a Solana Program Library (SPL
 
 ## 📁 Project Structure
 
-📂 spl-token-coolcoin-nodejs │ ├── .env # Stores private key securely ├── Create-token.js # Script to create SPL token & ATA ├── create-metadata.js # Script to upload metadata using Metaplex Umi ├── revoke_mintAuthority.js # Revokes minting rights ├── revoke_freezeAuthority.js # (optional, freeze authority was set to null initially) ├── package.json └── README.md
-
+📂 spl-token-coolcoin-nodejs │ ├── .env # Stores private key securely ├── Create-token.js to create SPL token & ATA ├── create-metadata.js # Script to upload metadata using Metaplex Umi ├── revoke_mintAuthority.js # Revokes minting rights ├── revoke_freezeAuthority.js # (optional, freeze authority was set to null initially) ├── package.json └── README.md
 
 ## 📦 Libraries Used
 
@@ -39,7 +38,8 @@ This project demonstrates how to create and manage a Solana Program Library (SPL
    ```bash
    git clone https://github.com/<your-username>/spl-token-coolcoin-nodejs.git
    cd spl-token-coolcoin-nodejs
-Install dependencies:
+   Install dependencies:
+   ```
 
 npm install
 Add your .env file:
